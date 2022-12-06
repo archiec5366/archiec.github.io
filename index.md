@@ -10,6 +10,7 @@ Introducing Apex Legends' newest hero: Forge! With an impressive array of weapon
 Forge is a brawler who brings a unique set of abilities to the Apex Games. He's a master of the battlefield with superhuman strength, speed, and agility. He has a powerful shotgun, energy shield, and a special grappling hook. His abilities allow him to take on any opponent and come out on top. He also has the ability to create a protective shield, which will keep him safe from incoming attacks. With Forge in your squad, you can be sure that your victories will always be epic!
 
 ##Image of Forge.
+<br>
 <img src="forge1.png" width="400">
 
 Forge has a powerful physique, with a broad chest and muscular arms. His outfit is a blend of black and red with a robotic-inspired design. His face is hidden behind a metallic mask, but his eyes blaze with determination. He has a determined look that shows he's ready to take on any challenge that comes his way. His powerful stance and weapons make him a formidable opponent on the battlefield. As the newest hero of Apex Legends, Forge is sure to be a powerful asset to any team!
