@@ -1,6 +1,7 @@
 # Hello World
 This is my new webpage
-<a href="index.html">Home</a> | <a href="about.html>About</a>
+
+<a href="index.html">Home</a> | <a href="about.html">About</a>
   
 
 ## Write a hype promo for an Apex Legends new hero release.
