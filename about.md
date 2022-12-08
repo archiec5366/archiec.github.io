@@ -1,6 +1,8 @@
 
 <a href="index.html">Home</a> | <a href="about.html">About</a>
 
+<img src="forge2.png" width="400">
+
 Forge was born on Solace, a planet in the Outlands. He was trained in martial arts and had a strong passion for sport and competition. He dreamed of one day becoming a Champion in the Apex Games, a prestigious battle royale tournament that takes place in the Outlands.
 
 Forge worked hard and eventually earned a spot in the Games. He fought valiantly and eventually rose to the rank of Champion. His skill and determination made him a fan favorite, and he quickly became a symbol of hope in the Outlands.
