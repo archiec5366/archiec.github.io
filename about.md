@@ -1,7 +1,7 @@
 
 <a href="index.html">Home</a> | <a href="about.html">About</a>
 
-<img src="forge2.png" width="400">
+<img src="Forge2.png" width="400">
 
 Forge was born on Solace, a planet in the Outlands. He was trained in martial arts and had a strong passion for sport and competition. He dreamed of one day becoming a Champion in the Apex Games, a prestigious battle royale tournament that takes place in the Outlands.
 
